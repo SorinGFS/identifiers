@@ -1,0 +1,35 @@
+{
+  "name": "identifier",
+  "version": "0.0.0",
+  "description": "A RFC3986 / RFC3987 compliant fast parser/validator/resolver/composer for NodeJS and browser.",
+  "keywords": [
+    "IRI",
+    "URI",
+    "IRI-reference",
+    "URI-reference",
+    "ipv4",
+    "ipv6",
+    "uuid",
+    "parser",
+    "validator",
+    "RFC",
+    "3987",
+    "RFC",
+    "3986"
+  ],
+  "homepage": "https://github.com/SorinGFS/identifier#readme",
+  "bugs": {
+    "url": "https://github.com/SorinGFS/identifier/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SorinGFS/identifier.git"
+  },
+  "license": "MIT",
+  "author": "SorinGFS",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
